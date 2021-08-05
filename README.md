@@ -2,7 +2,7 @@
 
 My name is George and I'm a java and android developer. I am from Russia, living in Moscow and currently working on personal open source projects.
 
-![Twitter Follow](https://img.shields.io/twitter/follow/liggidarck?color=1DA1F2&logo=twitter&style=for-the-badge)
+[![Twitter Follow](https://img.shields.io/twitter/follow/liggidarck?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fliggidarck&screen_name=liggidarck)
 
 ### 🔧 Languages and Tools
 
