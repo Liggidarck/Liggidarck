@@ -1,10 +1,13 @@
 ## Hi there! 
 
-My name is George and I'm a java developer. I am from Russia, living in Moscow and currently working on personal open source projects.
+My name is George and I'm a java and android developer. I am from Russia, living in Moscow and currently working on personal open source projects.
 
-### 🔧 Technologies & Tools
+[![Twitter Follow](https://img.shields.io/twitter/follow/liggidarck?color=1DA1F2&logo=twitter&style=for-the-badge)]
+
+### 🔧 Languages and Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=5194f0&bgcolor=110d17)
+![](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-informational?style=flat-square&logo=intellij%20idea&logoColor=white&color=5194f0)
 ![](https://img.shields.io/badge/IDE-Android%20Studio-informational?style=flat-square&logo=android-studio&logoColor=white&color=5194f0)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=java&logoColor=white&color=5194f0)
 
