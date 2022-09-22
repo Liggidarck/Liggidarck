@@ -15,11 +15,8 @@ My name is George and I'm java and android developer. I am from Russia, living i
 <p align="center">
   <table>
   <tr>
-      <td><img width="550px" src="https://github-readme-stats.vercel.app/api?username=Liggidarck" /></td>
-      <td> <img width="550px" src="https://github-readme-streak-stats.herokuapp.com/?user=Liggidarck" /></td>      
+      <td><img width="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liggidarck" /></td>
+      <td> <img width="250px" src="https://github-readme-streak-stats.herokuapp.com/?user=Liggidarck" /></td>      
   </tr>   
 </table>
 </p>
-
-### Languages Statistics
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Liggidarck)
